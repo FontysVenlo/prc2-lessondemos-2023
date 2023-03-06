@@ -1,4 +1,3 @@
-:imagesdir: images/
 
 # prc2-lessondemos-2023
 
@@ -10,5 +9,4 @@ Lesson 2 - Parameterized tests
 
 Lesson 3 - Testable Design
 
-.Class diagram of mocking lesson demo
-image::TestableDesignDemo.png[]
+![Class diagram of mocking lesson demo](./images/TestableDesignDemo.png)
